@@ -1,0 +1,110 @@
+[
+  {
+    "id": "741bf8ee-7f76-445b-9969-dc8f2655c587",
+    "data": [
+      {
+        "text": "how to recycle at ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708823
+  },
+  {
+    "id": "838304cd-62f8-45ae-904f-29acf1102c4e",
+    "data": [
+      {
+        "text": "office",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      },
+      {
+        "text": " recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708823
+  },
+  {
+    "id": "ba3814b0-a741-4e12-b4d5-bd5117a590b8",
+    "data": [
+      {
+        "text": "recycle ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708823
+  },
+  {
+    "id": "60dda072-aff0-4065-9981-99fa4b98efb7",
+    "data": [
+      {
+        "text": "guide in recycling in ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708823
+  },
+  {
+    "id": "73f70573-4eb5-4034-b382-8eb62ebab418",
+    "data": [
+      {
+        "text": "tips for recycling at ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708823
+  },
+  {
+    "id": "72c61e44-7dbb-434d-922f-724b097ed2a5",
+    "data": [
+      {
+        "text": "recycling at ",
+        "userDefined": false
+      },
+      {
+        "text": "office",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708823
+  }
+]

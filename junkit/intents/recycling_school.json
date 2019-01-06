@@ -1,0 +1,43 @@
+{
+  "id": "b59233d0-13dc-408d-b30a-eec819a1ef51",
+  "name": "recycling_school",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b92a3f54-1d9d-4510-bea2-2d1bb76b0ce5",
+          "required": true,
+          "dataType": "@recycle",
+          "name": "recycle",
+          "value": "$recycle",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Indicate if home, school, or office recycling."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Recycling in School\n\nIt is important to take our recycling habit into our schools; it is estimated that 80% of what is used at school can be recycled. Providing children and young adults with exposure to the importance of recycling can help to provide all of us with a greener and healthier community.\n\nIf you want to get your school in on the recycling revolution, here’s how:\n\n1. The majority of recyclable material at schools is paper. Every classroom, eating space and office should have plenty of bins available for recycling paper.\n\n2. If there are any school supplies left over at year’s end, you can donate them to students in need or to a local organization that helps the needy.\n\n3. Begin a composting program in your school cafeteria to reduce the amount of food waste thrown away. Some cafeterias can use waste compactors that will reduce how much space kitchen and food waste occupies.\n\n4. Every cafeteria and eating space should have containers for plastic, paper and metal recycling.\n\n5.Common materials at school including aluminum, paper, cardboard and plastics are very easy for schools to compact into bales that can be hauled away by the recycling company.\n\n6. Every school administration should invest in effective recycling and waste management equipment, including automatic trash compactors that increase the efficiency of waste management in high traffic areas for students.\n\n7. Use special fundraisers for the school that promote recycling, such as selling reusable shopping bags.\n\n8. Think about making schools as paperless as possible. Students and teachers can do a lot of their work with email, electronic documents and online rather than printing out many paper copies for students. Staff and administration for the school also should understand how to make minor changes that can make more of the school curriculum paperless."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546708942,
+  "fallbackIntent": false,
+  "events": []
+}

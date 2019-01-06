@@ -1,0 +1,44 @@
+{
+  "id": "a7d94584-f064-4d56-be7f-213e91e1dfab",
+  "name": "recycling_home",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "98c9edf4-fc03-4416-a892-34e17700a6ae",
+          "required": true,
+          "dataType": "@recycle",
+          "name": "recycle",
+          "value": "$recycle",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Indicate if its home, school or office recycling."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Tips to recycle more effectively at home:\n\n1. Flatten cardboard boxes so that you can fit more recyclables into your bin.\n\n2. All plastic bottles can be recycled, from water bottles to salad dressing, so put all of them in your recycling container.\n\n3. It is not just newspapers that you can recycle at home. Also, recycle wrapping paper, envelopes, birthday cards and phone books. All sorts of cardboard can be recycled, too, even toilet and paper towel tubes.\n\n4. Most metallic items in the home can be recycled, such as empty spray cans and tin foil, and of course, all empty soda, fruit, vegetable and other food cans.\n\n5. Keep a space in your cupboard so that you can recycle as you are cooking or cleaning. It will make it easier for you to put the recyclables in their proper place.\n\n6. When going out, stop at your local recycling center and drop off anything that was not picked up by your curbside service. This lets you fit your recycling into your life, and will also teach your children about the importance of recycling.\n\n7. If you are ever unsure about what you can recycle, check with your refuse provider website. There should be comprehensive information about what is or is not suitable for your recycling container or containers. Most refuse providers also have apps for your smart phone where you can check what to and what not to recycle.\n\n8. Glass can be recycled endlessly; it does not wear out after several recyclings, so be sure to always recycle your glass bottles and containers.\n\n9. To help your recycling center and to keep down foul odors, make sure you wash food waste off of any plastic or glass food containers before putting them in the recycle bin."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546708873,
+  "fallbackIntent": false,
+  "events": []
+}

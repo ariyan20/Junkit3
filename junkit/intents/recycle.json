@@ -1,0 +1,28 @@
+{
+  "id": "b10e7950-6d71-4e20-9529-77976c88d2dc",
+  "name": "recycle",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We are really glad you are interested in recycling!\n\nStatistics show estimates that nearly 100,000 pounds of waste will be created from your very being over your lifetime, creating a substantial impact on environmental issues such as landfills, energy conservation, contamination and the diminishing of resources. Recycling is a practice that can be implemented in your day-to-day life that can help you maintain a green home and reduce your negative effect on the earth. Here are nine recycling tips to help you out.\n\nLet us save Mother Earth!\nReduce\nReuse\nRecycle"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546709192,
+  "fallbackIntent": false,
+  "events": []
+}

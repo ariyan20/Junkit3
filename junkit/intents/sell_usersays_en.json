@@ -1,0 +1,378 @@
+[
+  {
+    "id": "bd41b8d3-8e7a-46bc-a264-fd6bc771b4a2",
+    "data": [
+      {
+        "text": "sell ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "856c5bbb-d4fa-410e-9e42-5e6089053a8c",
+    "data": [
+      {
+        "text": "sell ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "90d67c2c-2375-4d97-8600-87b87ebf2e3f",
+    "data": [
+      {
+        "text": "sell ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "526e7e17-79ff-4b0b-8f8e-63775d5fef0a",
+    "data": [
+      {
+        "text": "sell ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "de11b9af-91ec-47f1-b0e3-3c928120366f",
+    "data": [
+      {
+        "text": "sell ",
+        "userDefined": false
+      },
+      {
+        "text": "glass bottles",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "3eb33130-b1c9-4377-abdb-b14885f5324e",
+    "data": [
+      {
+        "text": "sell ",
+        "userDefined": false
+      },
+      {
+        "text": "scrap paper",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "5b15821b-98b4-498f-827a-63cf43d56713",
+    "data": [
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "70c8c0b9-8121-4359-b997-eb5cbebcd62f",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "49793838-feea-4921-b45e-acd3661ae8aa",
+    "data": [
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "2289e63d-58ab-42eb-a214-f30806cff551",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "fae00d3d-96be-4921-a890-480310611830",
+    "data": [
+      {
+        "text": "glass bottles",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "8aef59b5-a219-409d-8782-7a19cad3b993",
+    "data": [
+      {
+        "text": "scrap paper",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710095
+  },
+  {
+    "id": "af509d58-0ae6-4898-a065-9d0b58712c2c",
+    "data": [
+      {
+        "text": "sell ",
+        "userDefined": false
+      },
+      {
+        "text": "paper",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546695234
+  },
+  {
+    "id": "61929f61-3bc1-43f3-b041-0cbac1eab139",
+    "data": [
+      {
+        "text": "selling ",
+        "userDefined": false
+      },
+      {
+        "text": "cartons",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546694276
+  },
+  {
+    "id": "83317307-69e6-4d2c-82ca-d426ae507217",
+    "data": [
+      {
+        "text": "sell ",
+        "userDefined": false
+      },
+      {
+        "text": "sugar sacks",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546692383
+  },
+  {
+    "id": "ed799397-3046-4b96-967c-350ea001c979",
+    "data": [
+      {
+        "text": "make money from ",
+        "userDefined": false
+      },
+      {
+        "text": "glass bottles",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546692383
+  },
+  {
+    "id": "3d8554f2-44b5-4188-9612-a3d70c61206f",
+    "data": [
+      {
+        "text": "i don\u0027t use the ",
+        "userDefined": false
+      },
+      {
+        "text": "glass bottles",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546692383
+  },
+  {
+    "id": "2523965c-8523-4448-934a-3b6a71129bc2",
+    "data": [
+      {
+        "text": "i want to sell ",
+        "userDefined": false
+      },
+      {
+        "text": "appliances",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546692383
+  },
+  {
+    "id": "d3c8940c-0f4d-4174-a23b-60dfe8f9df0f",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546692383
+  },
+  {
+    "id": "d851e72d-8924-4dee-a582-0a47321b54a6",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "plastics",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546692383
+  },
+  {
+    "id": "137b804e-08aa-4eef-9d0c-79ca3cd549e9",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546692383
+  },
+  {
+    "id": "e4e49648-ec84-41b4-bf46-4dcc88dfe714",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "newspaper",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546692383
+  }
+]

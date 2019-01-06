@@ -1,0 +1,732 @@
+[
+  {
+    "id": "a18b17b4-1727-41ee-8745-e7e259036bb6",
+    "data": [
+      {
+        "text": "profit from ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713952
+  },
+  {
+    "id": "9f4d63bc-a71a-4b0f-a292-656e16ccfbe3",
+    "data": [
+      {
+        "text": "cost of ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546698306
+  },
+  {
+    "id": "70848099-c251-47c0-9878-3cfb887d3f86",
+    "data": [
+      {
+        "text": "how much will i gain in selling ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "07863a48-1790-4d7a-8225-d64625e738c2",
+    "data": [
+      {
+        "text": "income from ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "d72668b0-df7e-415e-aacc-fc9208f1f8e8",
+    "data": [
+      {
+        "text": "revenue from ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "8fddf418-5f45-4668-bffe-69f88eaf31ee",
+    "data": [
+      {
+        "text": "sell price of ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "d1ab42cb-5975-4bab-bfb3-728ff816fc10",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " sell price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "85edb507-9f1b-4e50-87fd-59d4996a5f44",
+    "data": [
+      {
+        "text": "selling price of ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "caee1629-b4c2-45c8-90e3-c3782ffc58db",
+    "data": [
+      {
+        "text": "money in ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "dd269eef-c0a3-4b9b-b206-c4eff4fcb0f2",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " profit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "238a6793-fde7-475e-a157-b575b4ba2b53",
+    "data": [
+      {
+        "text": "profit ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "5026490c-ef4d-4718-a7f6-a1878a578147",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " earn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "e24675b6-3af0-48ee-9ea0-b8c184d67f62",
+    "data": [
+      {
+        "text": "earn ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "a5426797-d42d-4392-9787-b43653401293",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " earnings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1546697040
+  },
+  {
+    "id": "3558fdd9-3c5b-4d14-bcf6-35e0de67f555",
+    "data": [
+      {
+        "text": "earnings ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "88cf3848-97cc-4eff-9399-606b5f3b1ebc",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " gain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "a40035bc-113e-4512-b349-cdcf91a4c86d",
+    "data": [
+      {
+        "text": "gain ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "b66bee0a-6e03-43ca-aac5-56c1c468f9ec",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546697040
+  },
+  {
+    "id": "dfb98ff0-a2e3-4cb8-90ba-4d70fb38067c",
+    "data": [
+      {
+        "text": "cost ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1546697040
+  },
+  {
+    "id": "73cdb33a-24ca-4734-ac50-1b2a365fc9cf",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713040
+  },
+  {
+    "id": "bd604db3-7922-4a81-b44c-03885e5b5678",
+    "data": [
+      {
+        "text": "income ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1546697040
+  },
+  {
+    "id": "a9e04636-7bb6-4a1a-8aa2-421a4fa0459e",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " revenue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1546697040
+  },
+  {
+    "id": "bf30a550-a1cc-4d0a-b2e3-7692902bea24",
+    "data": [
+      {
+        "text": "revenue ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546697040
+  },
+  {
+    "id": "c650f443-b031-4c11-a37e-a23074070ab1",
+    "data": [
+      {
+        "text": "price ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546697040
+  },
+  {
+    "id": "fe67a8b2-93c1-4c0f-b6bf-f9d32b42f677",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546697040
+  },
+  {
+    "id": "cbd6673d-45e0-436b-95ff-fa9e7ebb671b",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " how much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710893
+  },
+  {
+    "id": "9a4512dc-bfeb-4fad-9e4d-84bcc0a71002",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710893
+  },
+  {
+    "id": "b190ad9c-3dab-4b7c-aba1-d2ccecabbe8e",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i sell my ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710893
+  },
+  {
+    "id": "2c79213b-b847-4747-9ac2-53b2db4f3493",
+    "data": [
+      {
+        "text": "profit in ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706555
+  },
+  {
+    "id": "d5dd4439-993d-49b5-b22e-ba444d5e8a19",
+    "data": [
+      {
+        "text": "how much will i ",
+        "userDefined": false
+      },
+      {
+        "text": "earn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in selling ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1546712091
+  },
+  {
+    "id": "87d9afab-f5c1-44bf-865a-0725f2806912",
+    "data": [
+      {
+        "text": "how much is ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706555
+  },
+  {
+    "id": "43c6f9b0-8b1c-4190-97da-ef5f0575daad",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "prices",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712091
+  },
+  {
+    "id": "f8f1a626-8b2e-490f-9dcb-1e90183a2e5d",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "prices of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712091
+  },
+  {
+    "id": "db9687a6-da83-4808-9a8e-525754cec18c",
+    "data": [
+      {
+        "text": "prices",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712091
+  },
+  {
+    "id": "6b529d29-b48d-46e7-b366-4593b3fd8f63",
+    "data": [
+      {
+        "text": "earnings for ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546698306
+  },
+  {
+    "id": "b8816dbd-0b27-453d-9a31-b590183858a6",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i earn on selling ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546698306
+  },
+  {
+    "id": "a20344d0-5567-4583-9659-a076d2b7ebe4",
+    "data": [
+      {
+        "text": "price of ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1546698306
+  },
+  {
+    "id": "839d67bd-6d96-4a3c-85cb-91afd68bdad6",
+    "data": [
+      {
+        "text": "plastic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " selling price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1546697040
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "value": "home",
+    "synonyms": [
+      "home",
+      "house",
+      "residence",
+      "place  of residence",
+      "apartment",
+      "flat",
+      "bungalow",
+      "cottage",
+      "rest home",
+      "roof",
+      "habitat",
+      "cabin",
+      "townhome",
+      "townhouse",
+      "housing",
+      "penthouse",
+      "town home",
+      "town house",
+      "homes",
+      "houses",
+      "residences",
+      "codo",
+      "condominium",
+      "tenement"
+    ]
+  },
+  {
+    "value": "school",
+    "synonyms": [
+      "school",
+      "academy",
+      "department",
+      "elementary",
+      "high school",
+      "institute",
+      "college",
+      "university",
+      "school house",
+      "schoolhouse"
+    ]
+  },
+  {
+    "value": "office",
+    "synonyms": [
+      "office",
+      "job",
+      "workplace",
+      "work place",
+      "work station",
+      "job place",
+      "company",
+      "enterprise",
+      "corporation",
+      "business",
+      "workroom",
+      "work room",
+      "duty station"
+    ]
+  }
+]

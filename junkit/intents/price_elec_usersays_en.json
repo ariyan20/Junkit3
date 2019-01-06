@@ -1,0 +1,624 @@
+[
+  {
+    "id": "925aad4b-b4a5-4e44-8367-9fc42db6bebe",
+    "data": [
+      {
+        "text": "profit from ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713781
+  },
+  {
+    "id": "ac9eaf5c-28dc-49b9-92ab-4a71bdbdc2e4",
+    "data": [
+      {
+        "text": "cost for ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "a9e18294-28ec-4297-ac24-20df202151ad",
+    "data": [
+      {
+        "text": "how much will i gain from selling ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "bca557c7-ab62-4bb6-b4a1-a3e9e76a5708",
+    "data": [
+      {
+        "text": "income from ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "d3360523-3ba4-4fe0-9bdd-7b3fa6873a49",
+    "data": [
+      {
+        "text": "revenue from ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "ef5d3e76-e706-4e72-aafc-465bae4fa027",
+    "data": [
+      {
+        "text": "selling price of ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "fe4cc894-4bcb-45d0-8c22-3fa731d194ff",
+    "data": [
+      {
+        "text": "selling price ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "3cd072c7-1cbf-4648-ba4f-2c20fe6e2a37",
+    "data": [
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " profit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "a24deb59-c655-4d3c-a171-03542b8047ed",
+    "data": [
+      {
+        "text": "profit ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "b8970b5a-f1f8-4dae-86fe-0a47e7a72867",
+    "data": [
+      {
+        "text": "earn from ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "9c085c36-1b0b-4310-b0f2-2120d563c651",
+    "data": [
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " earnings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "a79c382b-6c05-4017-9da0-0f4a74d5fe52",
+    "data": [
+      {
+        "text": "earnings ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "4d953a5e-f12b-4c31-a746-e5c363416cdd",
+    "data": [
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " gain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "d04c86a5-51cd-43ab-b595-8076f6e5c066",
+    "data": [
+      {
+        "text": "gain ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "674f0f76-389a-4239-882c-da4b52bf1012",
+    "data": [
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "4f9c2eb4-3d7c-4dd9-b31f-f8aa3d9510eb",
+    "data": [
+      {
+        "text": "cost ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "053d69a2-7a35-4d51-9804-193815ae869e",
+    "data": [
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "2c19bae5-d252-4670-91ab-48ef2b93e3a5",
+    "data": [
+      {
+        "text": "income ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "048b9f4f-22cf-4e00-aaf6-7cb8f7598aca",
+    "data": [
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " revenue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "7eeacca1-c8a2-4a69-9f76-c0de4d3e8769",
+    "data": [
+      {
+        "text": "revenue ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "0baa0ee5-01fc-4e48-8d72-6cc4124206c1",
+    "data": [
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "prices",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1546705126
+  },
+  {
+    "id": "e00ed0f3-cffb-4f4a-828e-6b5077203bff",
+    "data": [
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "9b83ad5e-0067-4594-adaf-ea58272e7595",
+    "data": [
+      {
+        "text": "prices",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546704545
+  },
+  {
+    "id": "c582b340-efab-4a08-808e-77399d06291a",
+    "data": [
+      {
+        "text": "price ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712444
+  },
+  {
+    "id": "cdad7aae-54de-44ba-a46b-f5f7718b5c46",
+    "data": [
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " how much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710993
+  },
+  {
+    "id": "fd07efd9-24fb-4df8-8261-807677e8fff1",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710993
+  },
+  {
+    "id": "43055b15-0c6a-4511-808b-063407b67ccf",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i sell my ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710692
+  },
+  {
+    "id": "f79d8ee0-c07a-4ea1-8b50-33c59237177c",
+    "data": [
+      {
+        "text": "how much will i ",
+        "userDefined": false
+      },
+      {
+        "text": "earn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in selling ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706814
+  },
+  {
+    "id": "12e726e1-49a8-4e73-a784-e8aa7efe12c3",
+    "data": [
+      {
+        "text": "profit in ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " sap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706220
+  },
+  {
+    "id": "d8811013-d6db-4ca5-8ae3-e6efbedf697f",
+    "data": [
+      {
+        "text": "how much is ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706220
+  },
+  {
+    "id": "ada52548-e38e-4ff7-85df-93bb7b759ecc",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "prices of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706220
+  },
+  {
+    "id": "847d2773-434f-4bc7-87fa-5520bde0d569",
+    "data": [
+      {
+        "text": "prices of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "electronic scrap",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1546705126
+  }
+]

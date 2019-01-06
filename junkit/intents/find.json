@@ -1,0 +1,28 @@
+{
+  "id": "eaacd356-8486-40eb-9fc7-cb0fbd46cca1",
+  "name": "find",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Find nearby junk shop and know more information about them using our map feature."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546709774,
+  "fallbackIntent": false,
+  "events": []
+}

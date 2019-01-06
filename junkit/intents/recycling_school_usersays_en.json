@@ -1,0 +1,122 @@
+[
+  {
+    "id": "d0fd57f7-eb7e-47e6-9199-58f07a55d5a1",
+    "data": [
+      {
+        "text": "guide in recycling at school",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708942
+  },
+  {
+    "id": "5cf9f2bd-3223-46a6-913b-af473701a6f0",
+    "data": [
+      {
+        "text": "how to recycle at ",
+        "userDefined": false
+      },
+      {
+        "text": "school",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708699
+  },
+  {
+    "id": "30f4047b-3d84-407b-8421-0fa76ea4e75c",
+    "data": [
+      {
+        "text": "recycle at ",
+        "userDefined": false
+      },
+      {
+        "text": "school",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708699
+  },
+  {
+    "id": "80a15cfb-b5d2-4834-be62-c8e55755f995",
+    "data": [
+      {
+        "text": "recycle ",
+        "userDefined": false
+      },
+      {
+        "text": "school",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708699
+  },
+  {
+    "id": "025d7fb6-284a-4922-9198-9dcec8d80d77",
+    "data": [
+      {
+        "text": "school",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      },
+      {
+        "text": " recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708699
+  },
+  {
+    "id": "53fe9837-f38b-435a-9b2d-061eb4da8cb6",
+    "data": [
+      {
+        "text": "tips for recycling at ",
+        "userDefined": false
+      },
+      {
+        "text": "school",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708699
+  },
+  {
+    "id": "0416e046-e221-471b-8fb2-476f2718ec95",
+    "data": [
+      {
+        "text": "recycling at ",
+        "userDefined": false
+      },
+      {
+        "text": "school",
+        "alias": "recycle",
+        "meta": "@recycle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546708699
+  }
+]

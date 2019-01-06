@@ -1,0 +1,147 @@
+[
+  {
+    "value": "scrap paper",
+    "synonyms": [
+      "scrap paper",
+      "paper",
+      "bond paper",
+      "computer paper",
+      "notebooks",
+      "newspapers",
+      "periodicals",
+      "newsprints",
+      "Cartons",
+      "cardboards",
+      "colored waste paper",
+      "assorted color paper",
+      "colored paper",
+      "papers",
+      "carton",
+      "notebook",
+      "periodical",
+      "cardboard",
+      "newsprint",
+      "bond",
+      "bonds",
+      "newspaper"
+    ]
+  },
+  {
+    "value": "glass bottles",
+    "synonyms": [
+      "glass bottle",
+      "Beer",
+      "Softdrinks",
+      "Hard Liquor",
+      "Catsup",
+      "Glass cullets",
+      "softdrink",
+      "beers",
+      "hard liquors",
+      "liquors",
+      "liquor",
+      "glass",
+      "softdrink"
+    ]
+  },
+  {
+    "value": "plastic",
+    "synonyms": [
+      "plastic",
+      "mineral water",
+      "mineral water bottles",
+      "Plastic cups",
+      "basins",
+      "containers",
+      "Hard plastic",
+      "baby feeding bottles",
+      "CD case",
+      "plastics",
+      "plastic bottle",
+      "plastic cup",
+      "water bottles",
+      "water bottle",
+      "plastic bottles",
+      "basin",
+      "container"
+    ]
+  },
+  {
+    "value": "Batteries",
+    "synonyms": [
+      "Batteries",
+      "battery",
+      "car battery",
+      "truck battery",
+      "motorcycle battery"
+    ]
+  },
+  {
+    "value": "Metals",
+    "synonyms": [
+      "Metals",
+      "Copper",
+      "Aluminum",
+      "Aluminum jalousy",
+      "Aluminum cans",
+      "Aluminum caps",
+      "beverage cans",
+      "Radiator",
+      "pots",
+      "Radiator Loose",
+      "Condenser",
+      "Condenser Loose",
+      "Stainless",
+      "lead",
+      "Zinc",
+      "can",
+      "steel",
+      "bronze",
+      "iron sheets",
+      "metal",
+      "iron sheet",
+      "iron"
+    ]
+  },
+  {
+    "value": "Electronic Scrap",
+    "synonyms": [
+      "Electronic Scrap",
+      "electronics",
+      "Defective Computer Parts",
+      "Computer Parts",
+      "Monitor",
+      "CPU",
+      "Power supply",
+      "AVR",
+      "UPS",
+      "Printers",
+      "Scanners",
+      "Mouse",
+      "Keyboard",
+      "Speakers",
+      "Ink Cartridges",
+      "Toners",
+      "Used cellphone batteries",
+      "cellphone",
+      "Appliances",
+      "appliance",
+      "speaker",
+      "keyboard",
+      "printer",
+      "computer part",
+      "electronic"
+    ]
+  },
+  {
+    "value": "rice sacks",
+    "synonyms": [
+      "cellophane",
+      "sugar sacks",
+      "flour sacks",
+      "sugar sack",
+      "flour sack",
+      "rice sack"
+    ]
+  }
+]

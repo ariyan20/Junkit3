@@ -1,0 +1,43 @@
+{
+  "id": "ea19491a-346e-404e-b229-2d9f0b299302",
+  "name": "recycling office",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7a535640-c0ed-476d-9723-b7e367881f2c",
+          "required": true,
+          "dataType": "@recycle",
+          "name": "recycle",
+          "value": "$recycle",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Indicate if home, school, or office recycling."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546708823,
+  "fallbackIntent": false,
+  "events": []
+}

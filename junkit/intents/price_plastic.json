@@ -1,0 +1,43 @@
+{
+  "id": "2b780ff1-3aa2-4e68-9646-b7549a8c1219",
+  "name": "price_plastic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "32c09802-8da8-4b03-880e-bb2d32e3c158",
+          "required": true,
+          "dataType": "@items",
+          "name": "items",
+          "value": "$items",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the item?"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Prices of Recyclables:\n\nCar battery is around ₱100 per kilo.\nElectronic scrap/defective computer parts ranges from ₱8.00 to ₱300.00 per kilo.\nGlass bottles ranges from ₱0.25 to ₱2.00 per kilo.\nMetals ranges from ₱3.00 to ₱300.00 per kilo.\nPaper scraps ranges from ₱1.50 to ₱8.00 per kilo.\nPlastics ranges from ₱5.00 to ₱50.00 per kilo."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546714561,
+  "fallbackIntent": false,
+  "events": []
+}

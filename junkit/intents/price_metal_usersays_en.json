@@ -1,0 +1,683 @@
+[
+  {
+    "id": "2e5d4031-6e74-466f-823a-eab34929c7bc",
+    "data": [
+      {
+        "text": "profit from ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713879
+  },
+  {
+    "id": "de1291cd-00fc-4b4a-a691-7a0afa3b978f",
+    "data": [
+      {
+        "text": "cost of ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "bb60fceb-6e93-4a81-8b1a-88636c47a138",
+    "data": [
+      {
+        "text": "how much will i gain in selling ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "0fe62fd6-ee4a-4911-a182-99304f063a5e",
+    "data": [
+      {
+        "text": "income from ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "11e1da88-d129-47a8-9e4b-7c67163a6d68",
+    "data": [
+      {
+        "text": "revenue from ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "6771a61d-102a-469d-82de-6fce3c1dbb29",
+    "data": [
+      {
+        "text": "sell price ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "73c17dbb-0b82-42d6-870c-960fb67bf3e0",
+    "data": [
+      {
+        "text": "selling price ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "bb94e058-bafc-4ea8-8308-2b6a368ac644",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " profit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "b7dd9b42-ac74-4d34-aed1-f87551b34fd5",
+    "data": [
+      {
+        "text": "profit ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "20908a93-cc2d-4a69-b0b8-b378d9ff8c42",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " earn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "abc8b4eb-96e9-44a7-841c-1ac257dedd38",
+    "data": [
+      {
+        "text": "earn ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "ac9accc1-efd1-4f37-afad-dbf3c15acc63",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " earnings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "fe59b922-a49d-4f1f-8eef-ec31bd608ac6",
+    "data": [
+      {
+        "text": "earnings ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "f12ff089-47da-4e1e-921c-a926d5525995",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " gain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "8191cac3-39cd-4c60-8689-4c83ff7c73b9",
+    "data": [
+      {
+        "text": "gain ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "97de27e4-d7ff-452b-88f4-0a8e605cd55c",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "8879a72a-5649-4bf0-bea2-aa79f263a7e5",
+    "data": [
+      {
+        "text": "cost ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "bcc4ebb5-7f90-44f1-94ef-bc6e709f59ec",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "b102aeec-9a58-4d73-90c8-b2d3019f001d",
+    "data": [
+      {
+        "text": "income ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "cf9b3b71-1b52-40b7-9410-6e2a91dfc22d",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " revenue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "201f7287-440d-426c-af09-4afc38e3b715",
+    "data": [
+      {
+        "text": "revenue ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "cecba423-4778-4b01-a301-081b75e6bf46",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "fd685732-4477-4d90-ade6-84772f10e559",
+    "data": [
+      {
+        "text": "price ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "7058f7b4-f9ae-4585-b82b-b683ac7c7857",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " how much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712769
+  },
+  {
+    "id": "b9339d6a-1b52-4d0e-ac8b-569be8d1d9e0",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712040
+  },
+  {
+    "id": "4a0701bc-ae11-4226-93b7-41261ba7a65c",
+    "data": [
+      {
+        "text": "how much will i ",
+        "userDefined": false
+      },
+      {
+        "text": "earn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in selling ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712040
+  },
+  {
+    "id": "6c1ad1df-3bd4-4277-bf1e-01af5ea58364",
+    "data": [
+      {
+        "text": "profit in ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706368
+  },
+  {
+    "id": "c36489d7-04cd-4e2e-be4e-62299839b70f",
+    "data": [
+      {
+        "text": "how much are ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706368
+  },
+  {
+    "id": "e4cba31e-e88d-4e1e-a3b3-ef47f906d2e3",
+    "data": [
+      {
+        "text": "how much is ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706368
+  },
+  {
+    "id": "0945a48a-bfcb-4792-ade6-8aa3f8ae4e65",
+    "data": [
+      {
+        "text": "profit ",
+        "userDefined": false
+      },
+      {
+        "text": "gain",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712040
+  },
+  {
+    "id": "f15508ed-139a-487c-a93c-817a5a130685",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "prices of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712040
+  },
+  {
+    "id": "e655fdd5-31e5-4c44-a117-12f3f7ec0f0c",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i sell my ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713321
+  },
+  {
+    "id": "2fde523b-3665-46b5-8f25-f3baae03f45d",
+    "data": [
+      {
+        "text": "prices of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712040
+  },
+  {
+    "id": "a1c68043-820e-4a6c-9e7b-2c790fb3da5f",
+    "data": [
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "prices",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712040
+  },
+  {
+    "id": "63583752-2666-4f54-b14c-b1b36726fc77",
+    "data": [
+      {
+        "text": "prices",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "metals",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712040
+  }
+]

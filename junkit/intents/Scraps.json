@@ -1,0 +1,37 @@
+{
+  "id": "64d6c77c-3f30-4310-94d6-c325fdf6ee9f",
+  "name": "Scraps",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bdfb968a-05ca-44e3-97f2-234d4f042cea",
+          "required": false,
+          "dataType": "@items",
+          "name": "items",
+          "value": "$items",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Junk shops accept scrap papers, glass bottles, plastics, non-working batteries, metals, used oil, electronic parts/defective computer parts and many more. What scrap do you have?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546692774,
+  "fallbackIntent": false,
+  "events": []
+}

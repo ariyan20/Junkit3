@@ -1,0 +1,28 @@
+{
+  "id": "67d8f42d-da9c-4166-99ef-852c9bd49df0",
+  "name": "meaning of junk shop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A junk shop is a retail outlet similar to a thrift store which sells mostly used goods at cheap prices. A low-quality antique shop may border on being a junk shop. Shoppers who frequent junk shops are often referred to as \"junkers\", \"pickers\", \"bargain hunters\", \"rummagers\", etc."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546709504,
+  "fallbackIntent": false,
+  "events": []
+}

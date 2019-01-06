@@ -1,0 +1,653 @@
+[
+  {
+    "id": "374cb716-8d27-4e28-a162-c0bfd624ec6c",
+    "data": [
+      {
+        "text": "profit from ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713731
+  },
+  {
+    "id": "39880a33-082c-4408-b216-ae4b2e556dc6",
+    "data": [
+      {
+        "text": "money in ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "1f6e0b10-c87b-451b-aedf-c40d53153a8d",
+    "data": [
+      {
+        "text": "earn from ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "a74d5a68-9f09-4e27-83da-08d5f8eba974",
+    "data": [
+      {
+        "text": "earnings",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546711409
+  },
+  {
+    "id": "e17318a1-02a1-478c-b4ea-047d05bb5987",
+    "data": [
+      {
+        "text": "revenue from ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "e966b804-324a-4094-aaec-ca83a6c764de",
+    "data": [
+      {
+        "text": "gain from ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "5b6d1e0c-cab6-40fe-b2a2-2dfffdf169d5",
+    "data": [
+      {
+        "text": "income from ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "57de6b2c-761f-4b86-a1e1-4c7c69a92668",
+    "data": [
+      {
+        "text": "cost for ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "0e96b75c-bb89-4457-896b-cd662a377074",
+    "data": [
+      {
+        "text": "price of ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "e15203e3-790e-4098-897f-470442c4a4f4",
+    "data": [
+      {
+        "text": "sell price of ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "b1b4a144-34f4-4b3c-bde8-4ea981cf993d",
+    "data": [
+      {
+        "text": "gains ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "c68757d0-ddf9-400d-987b-47b4fcf46be0",
+    "data": [
+      {
+        "text": "profit ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713177
+  },
+  {
+    "id": "a55f215d-a8a4-4d57-970e-68fb8c2d8031",
+    "data": [
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " profit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546713177
+  },
+  {
+    "id": "fd8c9489-a09e-42d0-9e80-493595b6187b",
+    "data": [
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " selling price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "18760771-18c8-4e7c-aa9a-05b767940d80",
+    "data": [
+      {
+        "text": "selling price ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "37b6887e-ae84-4f92-80af-3dcf1930e583",
+    "data": [
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "a325cc4f-398f-42d8-b29c-5a354ebfa6e3",
+    "data": [
+      {
+        "text": "cost ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "55a58a8d-b8c2-4b51-a0b3-83e355370b0f",
+    "data": [
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " income",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "f9e7d739-89d3-487b-859e-acd0ce928ab2",
+    "data": [
+      {
+        "text": "income ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "092cb7b5-70e2-4333-92c4-7eb8efd90985",
+    "data": [
+      {
+        "text": "incomes ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "a3acefc6-f6cc-4968-8ec7-11bbf8a9aa87",
+    "data": [
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " revenue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "cfc987ce-a83c-4bf5-98e3-b4a977abed43",
+    "data": [
+      {
+        "text": "revenue",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1546711857
+  },
+  {
+    "id": "12242486-87e9-4d3c-a9c2-bac3a662394d",
+    "data": [
+      {
+        "text": "price ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546712275
+  },
+  {
+    "id": "63251f93-a226-4463-b73c-88674aecd983",
+    "data": [
+      {
+        "text": "prices",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1546711857
+  },
+  {
+    "id": "ab58476a-87ac-4a55-af96-2fe78a05460e",
+    "data": [
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " how much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546711013
+  },
+  {
+    "id": "812fc14d-2fa3-4f0c-9e5f-f930ee21e9c1",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546711013
+  },
+  {
+    "id": "b5287aac-9e71-4536-a1d9-e7f23cf1507c",
+    "data": [
+      {
+        "text": "how much ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i sell my ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546710666
+  },
+  {
+    "id": "c3a1a3c0-0200-49bc-a1e2-d232ac8f5527",
+    "data": [
+      {
+        "text": "how much will i ",
+        "userDefined": false
+      },
+      {
+        "text": "earn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in selling ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706767
+  },
+  {
+    "id": "649107ae-0a59-4bc0-a95e-f7e24d269bc6",
+    "data": [
+      {
+        "text": "gain",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in selling ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706140
+  },
+  {
+    "id": "9e9fb8c5-746f-4e10-9cfa-fa916807d014",
+    "data": [
+      {
+        "text": "How much is ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706140
+  },
+  {
+    "id": "b706ea97-32ae-46aa-befd-f8a434dfc78b",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "prices  of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546706140
+  },
+  {
+    "id": "58c1145d-fd27-407a-872c-5cda28f82f04",
+    "data": [
+      {
+        "text": "prices of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1546705089
+  },
+  {
+    "id": "17ecf0eb-3ff3-4365-a1c5-e0ab8a12645e",
+    "data": [
+      {
+        "text": "batteries",
+        "alias": "items",
+        "meta": "@items",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "prices",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1546704918
+  }
+]

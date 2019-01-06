@@ -1,0 +1,43 @@
+{
+  "id": "07155815-8843-438b-86c9-6d4c67790034",
+  "name": "sell",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "18ecd15b-4de6-4e70-b332-ba8e8f423707",
+          "required": true,
+          "dataType": "@items",
+          "name": "items",
+          "value": "$items",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "You haven\u0027t told me the scrap you want to sell."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great! That item can be sold to the junk shop."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546710095,
+  "fallbackIntent": false,
+  "events": []
+}
