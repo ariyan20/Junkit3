@@ -67,7 +67,6 @@ public class MainActivity extends AppCompatActivity {
         scrollview.post(() -> scrollview.fullScroll(ScrollView.FOCUS_DOWN));
 
         chatLayout = findViewById(R.id.chatLayout);
-
         ImageView sendBtn = findViewById(R.id.sendBtn);
         sendBtn.setOnClickListener(this::sendMessage);
 
@@ -85,12 +84,13 @@ public class MainActivity extends AppCompatActivity {
             }
             return false;
         });
-
         // Android client
           initChatbot();
 
         // Java V2
         initV2Chatbot();
+        QueryInput queryInput = QueryInput.newBuilder().setText(TextInput.newBuilder().setText("hello").setLanguageCode("en-US")).build();
+        new RequestJavaV2Task(MainActivity.this, session, sessionsClient, queryInput).execute();
     }
 
     private void initChatbot() {
@@ -122,7 +122,8 @@ public class MainActivity extends AppCompatActivity {
         String msg = queryEditText.getText().toString();
         if (msg.trim().isEmpty()) {
             Toast.makeText(MainActivity.this, "Please enter your query!", Toast.LENGTH_LONG).show();
-        } else {
+        }
+        else {
             showTextView(msg, USER);
             queryEditText.setText("");
             // Android client
@@ -140,8 +141,29 @@ public class MainActivity extends AppCompatActivity {
         if (aiResponse != null) {
             // process aiResponse here
             String botReply = aiResponse.getResult().getFulfillment().getSpeech();
+            String finalReply = "", pass="";
+            char[] cont = botReply.toCharArray();
             Log.d(TAG, "Bot Reply: " + botReply);
-            showTextView(botReply, BOT);
+            if(botReply=="")
+            {
+                finalReply = "Sorry I didn't get that. Kindly choose from the choices.";
+            }
+            else
+            {
+                for(int x=0;x<botReply.length();x++)
+                {
+                    if(cont[x]=='>')
+                    {
+                        finalReply = finalReply + "\n";
+                    }
+                    else
+                    {
+                        pass = String.valueOf(cont[x]);
+                        finalReply = finalReply + pass;
+                    }
+                }
+            }
+            showTextView(finalReply, BOT);
         } else {
             Log.d(TAG, "Bot Reply: Null");
             showTextView("There was some communication issue. Please Try again!", BOT);
@@ -152,8 +174,29 @@ public class MainActivity extends AppCompatActivity {
         if (response != null) {
             // process aiResponse here
             String botReply = response.getQueryResult().getFulfillmentText();
+            String finalReply = "",pass="";
+            char[] cont = botReply.toCharArray();
             Log.d(TAG, "V2 Bot Reply: " + botReply);
-            showTextView(botReply, BOT);
+            if(botReply=="")
+            {
+                finalReply = "Sorry I didn't get that. Kindly choose from the choices.";
+            }
+            else
+            {
+                for(int x=0;x<botReply.length();x++)
+                {
+                    if(cont[x]=='>')
+                    {
+                        finalReply = finalReply + "\n";
+                    }
+                    else
+                    {
+                        pass = String.valueOf(cont[x]);
+                        finalReply = finalReply + pass;
+                    }
+                }
+            }
+            showTextView(finalReply, BOT);
         } else {
             Log.d(TAG, "Bot Reply: Null");
             showTextView("There was some communication issue. Please Try again!", BOT);
